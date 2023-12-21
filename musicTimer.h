@@ -17,9 +17,3 @@ void doSomethingMusic() {
     dfp.next();
     sleep_ms(200);
 }
-
-
-//hallo Welt 2
-
-
-//test
