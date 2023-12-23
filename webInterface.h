@@ -14,7 +14,7 @@
 
 class WebInterface {
 private:
-    int relayTimer_Amount = 5; //menge an RelayTimer die auf der Webseite erstellt wurden
+    int relayTimer_Amount = 2; //menge an RelayTimer die auf der Webseite erstellt wurden
     
     //argumente für den RelayTimer
     int gpio_pin_switch[MAX_RELAY_TIMERS];
